@@ -1,4 +1,4 @@
-### ポートフォリオ理論
+### Population Balance Model
 ---
 Vitelli2024_Biochem.Eng.J.vol202.109181
 
