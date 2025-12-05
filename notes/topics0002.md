@@ -54,3 +54,16 @@ $$
 \frac{\Delta p}{L} &= \frac{\mu}{K} u + \frac{\rho F^{2}}{\sqrt{K}}u^{2} - \mu {\nabla}^{2}u \tag{2}
 \end{align}
 $$
+
+$K$: 透過率（permeability）[m$^{2}$]
+$F$: 
+
+<p>
+第1項: Darcy項
+</p>
+<p>
+第2項: Forchheimer項
+</p>
+<p>
+第3項: Brinkman項
+</p>
